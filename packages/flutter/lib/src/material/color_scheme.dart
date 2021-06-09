@@ -54,7 +54,7 @@ class ColorScheme with Diagnosticable {
     this.secondary = const Color(0xff03dac6),
     this.secondaryVariant = const Color(0xff018786),
     this.surface = Colors.white,
-    this.background = Colors.white,
+    this.background =Colors.white,
     this.error = const Color(0xffb00020),
     this.onPrimary = Colors.white,
     this.onSecondary = Colors.black,
